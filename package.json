@@ -1,0 +1,15 @@
+{
+  "name": "finalbackend",
+  "version": "1.0.0",
+  "description": "final backend by cac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "backend"
+  ],
+  "author": "admiral",
+  "license": "ISC"
+}
